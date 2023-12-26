@@ -1,4 +1,4 @@
-#Best Cities for a Workation
+# Best Cities for a Workation
 
 Este proyecto fue desarrollado como parte del curso de Data Analyst ofrecido por CoderHouse. Utilizando datos de más de 150 países, se analizan las mejores ciudades para combinar trabajo y vacaciones, o "workation". Se detallan las herramientas utilizadas, como Excel, PowerPoint y Power BI, así como el diseño de la portada con Canva.
 
